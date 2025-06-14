@@ -1,4 +1,4 @@
-AI_Chatbot/
+AIChatbot:
 README.md
 requirements.txt
 .gitignore
